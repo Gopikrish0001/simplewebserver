@@ -20,7 +20,9 @@ Serving the HTML pages.
 ### Step 5:
 Testing the webserver.
 
-## PROGRAM:<html>
+## PROGRAM:
+```
+<html>
 <title> Image map </title>
 <body>
 <table border ="2"  cellspacing ="10" cellpadding = "6" align = "Center"> 
@@ -60,7 +62,6 @@ Testing the webserver.
 <td> Syamntec </td>
 <td> 5.6 Billion </td>
 </tr>
-```
 
 
 </table>
